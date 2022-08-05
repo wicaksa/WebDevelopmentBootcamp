@@ -1,0 +1,24 @@
+/********************* TAG SELECTIORS *********************/
+
+h1 {
+    color: #ff0000;
+    font-size: 50px;
+}
+
+img:hover {
+    background-color: bisque;
+}
+
+/******************** CLASS SELECTIORS ********************/
+.bacon {
+    background-color: green;
+}
+
+.circular {
+    border-radius: 100%; /* Make Circular border*/
+}
+
+/********************** ID SELECTIORS **********************/
+#heading {
+    color: black;
+}
