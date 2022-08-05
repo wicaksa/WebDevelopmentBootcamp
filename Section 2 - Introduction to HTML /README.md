@@ -1,5 +1,4 @@
 ## Topics Learned
-
 - Using Different HTML Tags
 - Tags include: a, ul/li, h1 to h6.
 
