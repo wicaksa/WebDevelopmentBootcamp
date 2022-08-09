@@ -1,0 +1,45 @@
+/* ctrl+shift+c */
+/* # - style id */
+/* . - style class */
+
+/* CSS Tags */
+body {
+    text-align: center;
+}
+
+h1 {
+}
+
+/* CSS id */
+#div-intro {
+}
+
+#bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px; 
+}
+#top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+/* CSS Classes */
+
+.bottom-container {
+    width: 200px;
+    height: 200px;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
