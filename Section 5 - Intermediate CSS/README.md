@@ -9,5 +9,9 @@
 - Relative Position: postion: relative; -> right: , left: , top: , bottom:
 - Absolute Position: Position relative to the page
 - Text Align: use center or use margins : 0 auto 0 auto (top right bottom left)
-- Font Styling
+- Font Styling: Serif & Sans-serif
+- Web Safe Fonts: cssfontstack.com,
+- Font stack used in case some fonts don't load
+- Font Embedding
+- Float, Clear
 -
