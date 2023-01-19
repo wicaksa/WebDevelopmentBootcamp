@@ -6,7 +6,6 @@
 - Using Bootstrap containers (regular and fluid) to wrap rows (https://getbootstrap.com/docs/5.3/layout/containers/).
 - Using Bootstrap buttons to add a dark and light outline button with icons. (https://getbootstrap.com/docs/5.3/components/buttons/ | https://fontawesome.com/)
 - Using Bootstrap and CSS to style the Navbar and Content.
-- Using Bootstrap
 
 ## Notes
 
@@ -18,3 +17,6 @@
   - Layout is responsive, the icons should take up full width on medium sized screens and below e.g. iPad, phone.
   - On desktop or large screen devices it should take up a 1/3 of the screen width.
   - Icons change colour when you mouse over the them.
+
+## Website So Far
+![Screenshot 2023-01-18 at 16-25-11 TinDog](https://user-images.githubusercontent.com/50036161/213327009-235ec40a-4035-4199-a0e2-8d2894c5923d.png)
