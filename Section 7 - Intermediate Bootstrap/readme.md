@@ -11,6 +11,5 @@
 - Bootsnips -> Bootstrap components
 - Use Google to check if webpage is mobile friendly.
 
-## Features
-
-## Website So Far
+## Completed Website
+![Screenshot 2023-01-19 at 17-07-37 TinDog](https://user-images.githubusercontent.com/50036161/213596584-f949eb82-2b64-42c0-a9ac-e2f4fbebe5b4.png)
